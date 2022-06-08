@@ -1,6 +1,7 @@
  # Project Name
 > Lending Club Case Study
 
+## Note: The graph codes has been commented out in the python notebook please uncomment them to run the codes as the file was getting heavy and was unable to upload it on git. The for loop has been used to create all the graphs of all the column at ones.
 
 ## Table of Contents
 * [General Info](#general-information)
