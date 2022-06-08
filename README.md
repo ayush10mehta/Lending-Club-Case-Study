@@ -42,9 +42,6 @@ If the applicant is likely to repay the loan, the company will lose business if 
 12. purpose: A category provided by the borrower for the loan request. 
 13. addr_state: The state provided by the borrower in the loan application
 
-### The Process
-- ![Folw Diagram](link)
-
 
 ## Technologies Used
 - numpy version - 1.22.3
